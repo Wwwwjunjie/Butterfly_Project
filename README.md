@@ -2,7 +2,7 @@
 
 ## 一、驱动系统-无刷电机（1.3g） 已下单
 
-<img src="C:\Users\29269\AppData\Roaming\Typora\typora-user-images\image-20240411001710442.png" alt="image-20240411001710442" style="zoom: 25%;" />
+<img src="C:\Users\29269\AppData\Roaming\Typora\typora-user-images\image-20240411001710442.png" alt="image-20240411001710442" style="zoom: 15%;" />
 
 ##### 19000KV-1V驱动电压对应19000转/min-约300hz，需大概1:30的减速比
 
